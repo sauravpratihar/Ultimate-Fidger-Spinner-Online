@@ -163,7 +163,7 @@ p {
 
 @media (max-width: 768px){
     .home-iphone{
-        display: none;
+        /*display: none; */
     }
     .home_text{
         text-align: center;
